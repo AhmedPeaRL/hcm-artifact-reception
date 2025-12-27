@@ -1,0 +1,8 @@
+artifact.reception = allowed
+evaluation = disabled
+selection = disabled
+prioritization = disabled
+timing.control = disabled
+
+manual.intervention = minimal
+manual.intervention.purpose = integrity only
